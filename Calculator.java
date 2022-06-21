@@ -74,6 +74,7 @@ public class ArithmeticDemo {
 			}
 			System.out.println("DO YOU WANT TO CONTINUE(1/0)?");
 			ans = s.nextInt();
+                         System.out.println("Done");
 		}
 		while(ans!=0);
 	}
